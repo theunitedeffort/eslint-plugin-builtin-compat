@@ -18,9 +18,9 @@
     "test": "mocha tests --recursive"
   },
   "dependencies": {
-    "browserslist": "^3.2.4",
+    "browserslist": "^4.21.6",
     "lodash": "^4.17.5",
-    "mdn-browser-compat-data": "0.0.29",
+    "@mdn/browser-compat-data": "^5.2.59",
     "requireindex": "~1.1.0",
     "semver": "^5.5.0"
   },
